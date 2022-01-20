@@ -10,7 +10,9 @@
 	<header>
 		<h1>이것저것 연구소</h1>
 		<nav>
-		
+			<ul>
+				<li>반갑습니다 여러분</li>
+			</ul>
 		</nav>
 	</header>
 </body>
