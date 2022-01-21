@@ -2,3 +2,9 @@
 
 *{margin:0;padding:0;box-sizing:border-box;}
 a{text-decoration:none; color:#000;}
+li,ul{list-style: none;}
+
+div {padding:30px}
+
+.bonron { width:100%; height:auto;}
+.bonron > h3 {margin:0 auto;}
